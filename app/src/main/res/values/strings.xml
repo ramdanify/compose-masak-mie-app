@@ -1,3 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MasakMie App</string>
+
+    <string name="warung_madura_text">Tap untuk beli mie di Warung Madura</string>
+    <string name="indomie_goreng_text">Tap untuk siapkan mie Indomie Goreng</string>
+    <string name="indomie_goreng_dibuka_text">Tap untuk masukkan mie ke air mendidih</string>
+    <string name="lagi_dimasak_text">Rebus dan aduk mie sampai matang!</string>
+    <string name="lagi_ditiriskan_text">Tap untuk tiriskan mie</string>
+    <string name="mie_dipiring_text">Tap untuk siapkan bumbu</string>
+    <string name="mie_belum_dibumbuin_text">Tap untuk tuang bumbu ke mie dan aduk</string>
+    <string name="mie_sudah_jadi_text">Indomie siap disantap, Tap jika ingin masak lagi</string>
+
+    <string name="warung_madura_desc">Gambar Warung Madura</string>
+    <string name="indomie_goreng_desc">Gambar Indomie Goreng</string>
+    <string name="indomie_goreng_dibuka_desc">Gambar Indomie Goreng Dibuka</string>
+    <string name="lagi_dimasak_desc">Gambar Mie Lagi Dimasak</string>
+    <string name="lagi_ditiriskan_desc">Gambar Mie Lagi Ditiriskan</string>
+    <string name="mie_dipiring_desc">Gambar Mie Di Piring</string>
+    <string name="mie_belum_dibumbuin_desc">Gambar Mie Belum Dibumbuin</string>
+    <string name="mie_sudah_jadi_desc">Gambar Mie Sudah Jadi</string>
 </resources>
