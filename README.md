@@ -1,6 +1,6 @@
 # MasakMie
 
-Aplikasi Android interaktif berbasis **Jetpack Compose** yang mensimulasikan langkah-langkah memasak mie instan secara bertahap. Proyek ini dikembangkan sebagai tugas mata pelajaran **Pemrograman Mobile (Bu Dinda)** yang diadaptasi dari studi kasus *Lemonade App* pada modul resmi [Google Developers - Android Basics with Compose Unit 2 Pathway 2](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2).
+Aplikasi Android interaktif berbasis **Jetpack Compose** yang mensimulasikan langkah-langkah memasak mie instan secara bertahap. Proyek ini dikembangkan sebagai tugas mata pelajaran **Pemrograman Mobile (Bu Rizka)** yang diadaptasi dari studi kasus *Lemonade App* pada modul resmi [Google Developers - Android Basics with Compose Unit 2 Pathway 2](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2).
 
 ---
 
@@ -41,5 +41,5 @@ Aplikasi Android interaktif berbasis **Jetpack Compose** yang mensimulasikan lan
 ## Informasi Tugas
 
 - **Mata Pelajaran**: Pemrograman Mobile
-- **Guru**: Bu Dinda
+- **Guru**: Bu Rizka
 - **Referensi Codelab**: [Android Basics with Compose - Unit 2 Pathway 2](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2)
